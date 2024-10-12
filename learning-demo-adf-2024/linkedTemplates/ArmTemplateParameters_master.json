@@ -8,6 +8,12 @@
 		"abs_linkservice_csv_connectionString": {
 			"value": ""
 		},
+		"adls_destination_zone_accountKey": {
+			"value": ""
+		},
+		"adls_destination_zone_properties_typeProperties_url": {
+			"value": "https://rastorageaccount2024.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
